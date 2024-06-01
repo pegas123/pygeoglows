@@ -8,7 +8,7 @@ geoglows
         :target: https://anaconda.org/geoglows/geoglows
 
 The geoglows Python package enables access to data, API's, and code developed for the `GEOGLOWS Hydrology Model <https://geoglows.ecmwf.int>`_.
-Read more about GEOGLOWS at `<https://geoglows.org>`_
+Read more about GEOGLOWS at `<https://www.geoglows.org>`_
 
 For demos, tutorials, and other training materials for GEOGLOWS and the geoglows Python packge, please visit `<https://data.geoglows.org>`_.
 
